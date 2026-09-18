@@ -1,22 +1,22 @@
 # Bird Game (C++)
 
-Простая консольная игра про птицу на C++.
+A simple console arcade game about a bird, written in C++.
 
-## Управление
+## Controls
 
-- Пробел — прыжок
-- Q — выход
+- Space — jump
 
-## Что реализовано
+## Features
 
-- Движение птицы
-- Обработка нажатий клавиш
-- Игровой цикл
-- Отрисовка в консоли
+- Bird movement and jump mechanics
+- Gravity (the bird falls down)
+- Obstacles with gaps
+- Collision detection
+- Rendering in the console
 
-## Запуск
+## Getting Started
 
-Требуется компилятор `g++` (C++11+).
+Requires a `g++` compiler (C++11 or newer).
 
 ```bash
 g++ main.cpp -o bird
