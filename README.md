@@ -24,7 +24,7 @@ g++ main.cpp -o bird
 ```
 
 ## Скриншот
-![Скриншот игры BIRD](screen.png)
+
 ![Скриншот игры BIRD](screenshot.png)
 
 ## Author
